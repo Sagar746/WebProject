@@ -10,5 +10,6 @@
 
 1. Desktop View
 
-   ![[desktop_view.png](https://github.com/Sagar746/WebProject/blob/main/HTML/form/desktop_view.png)]
+   ![desktop_view]https://github.com/Sagar746/WebProject/blob/main/HTML/form/desktop_view.png)
+
 
