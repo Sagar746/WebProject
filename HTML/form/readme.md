@@ -7,3 +7,7 @@
 - Work Experience
 
 # Screenshot of Desktop, Mobile and W3 Validator
+
+1. Desktop View
+
+   ![desktop_view.png]
