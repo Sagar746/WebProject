@@ -1,7 +1,9 @@
 # Job Form Application
 
-## This project includes the input of :
+## This project includes:
 - FullName
 - Email
 - Job Position
 - Work Experience
+
+# Screenshot of Desktop, Mobile and W3 Validator
