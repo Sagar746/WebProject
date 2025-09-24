@@ -10,7 +10,8 @@
 
 1. Desktop View
 
-   ![desktop_view](https://github.com/Sagar746/WebProject/blob/main/HTML/form/desktop_view.png = 500 * 500)
+   ![desktop_view](https://github.com/Sagar746/WebProject/blob/main/HTML/form/desktop_view.png = 500 x 500)
+
 
 
 
