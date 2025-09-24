@@ -18,7 +18,8 @@
 
 3. W3 Validator
 
-   <img src='ss_w3cvalidator.png" width=600px height=600px>
+   <img src="ss_w3cvalidator.png" width=600px height=600px>
+
 
 
 
