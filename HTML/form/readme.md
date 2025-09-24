@@ -10,7 +10,8 @@
 
 1. Desktop View
 
-   ![desktop_view](https://github.com/Sagar746/WebProject/blob/main/HTML/form/desktop_view.png | width=500 | height=500)
+   <img src="desktop_view.png" width=500px height=500px>
+
 
 
 
