@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="forms.css">
+    <title>Job Application</title>
+</head>
+<body>
+    <div id="job_form">
+        <h1 id="form_header">Job Application Form</h1>
+        <form action="https://postman-echo.com/post" method="post">
+            <div class="fullname">
+                <label for="full_name">Name </label>
+                <input type="text" id="full_name" name="name">
+            </div>
+
+            <div class="email">
+                <label for="email">Email </label>
+                <input type="email"  id="email" name="email">
+            </div>
+
+            <div class="position">
+                <label for="jobs">Select Job Position</label>
+                <select name="jobs" id="jobs">
+                    <option value="ai">AI Engineer</option>
+                    <option value="database">Database Engineer</option>
+                    <option value="network">Network Engineer</option>
+                    <option value="manager">Project Manager</option>
+                </select>
+            </div>
+
+            <div class="experience">
+                <label for="experience">Work Experience</label>
+                <textarea name="experience" id="experience" rows="10" cols="40" placeholder="Experience..."></textarea>
+            </div>
+
+            <div class="checkbox">
+                <input type="checkbox" id="agree" name="agree">
+                <label for="agree">I agree to the terms</label>
+            </div>
+
+            <input type="submit" value="Submit">
+
+            <input type="reset"  value="Reset">
+        </form>
+    </div>
+</body>
+</html>
