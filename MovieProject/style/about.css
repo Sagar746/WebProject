@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding:0;
+}
+nav.topnav{
+    width: 100%;
+    height: auto;
+    background-color: #ed072a;
+    padding: 2%;
+    position: sticky;
+    
+}
+
+nav.topnav a{
+    display: inline-block;
+    margin-left: 12%;
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+}
+
+
+/*  */
+
+
+
+ 
+
+
+
+
+
+
+/* footer css starts */
+footer{
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    background-color: #ed072a;
+    padding: 3%;
+    text-align: center;
+    color: #ebdbda;
+}
+
+/* footer css ends */
